@@ -1,0 +1,12 @@
+{
+  "name": "telegram-whatsapp-helper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netlify webhook Telegram bot with Supabase-backed WhatsApp queue state.",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.56.0"
+  }
+}
